@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30802b00-d482-41bb-813d-33438277b866" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/GatlingRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/GatlingRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/baseConfig/BaseSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/baseConfig/BaseSimulation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/simulations/RampUsersLoadSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/simulations/RampUsersLoadSimulation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/simulations/RuntimeParameters.scala" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals/src/gatling/scala/simulations/RuntimeParameters.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/examples/Gatling Example/gatling-fundamentals" />
+  </component>
+  <component name="ProjectId" id="24KUJwKpznrp6ofj0qgvNXhH6Az" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30802b00-d482-41bb-813d-33438277b866" name="Default Changelist" comment="" />
+      <created>1643378704333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643378704333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,62 @@
+RUN	RecordedSimulation	recordedsimulation	1616524649045	Cubadebate	3.5.1
+USER	RecordedSimulation	START	1616524650388
+REQUEST		RecordedSimulation_0:GET_http://www.cubadebate.cu/	1616524650408	1616524658662	OK	 
+REQUEST		favicon.ico	1616524658855	1616524659221	OK	 
+REQUEST		ordenamiento-monetario.jpg	1616524659223	1616524659562	OK	 
+REQUEST		podcast_cd.png	1616524659567	1616524659888	OK	 
+REQUEST		scripts.js&ver=4.10	1616524659890	1616524660633	OK	 
+REQUEST		jquery.cycle2.min.js?ver=5.1.1	1616524660635	1616524660995	OK	 
+REQUEST		wp-embed.min.js&ver=4.10	1616524660997	1616524661360	OK	 
+REQUEST		modernizr.js?ver=5.1.1	1616524661361	1616524661712	OK	 
+REQUEST		logo.png	1616524658857	1616524669097	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		PORTADA-VACUNA-2-940x520.jpg	1616524658858	1616524669106	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		default.jpg?v=CT77oJvnYbw	1616524658858	1616524669108	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-4.jpg	1616524658859	1616524669111	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-6.jpg	1616524658859	1616524669113	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-3.jpg	1616524658859	1616524669114	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		RecordedSimulation_1:GET_http://cartel.cubadebate.cu/cartel300.php?alb=12	1616524658859	1616524669115	KO	i.n.c.ConnectTimeoutException: connection timed out: cartel.cubadebate.cu/190.205.101.93:80
+REQUEST		style.css&ver=4.10	1616524658855	1616524679094	KO	i.n.c.ConnectTimeoutException: connection timed out: www.cubadebate.cu/122.249.236.43:80
+REQUEST		nggallery.css&ver=4.10	1616524658856	1616524679095	KO	i.n.c.ConnectTimeoutException: connection timed out: www.cubadebate.cu/122.249.236.43:80
+REQUEST		print.css&ver=4.10	1616524658856	1616524679117	KO	i.n.c.ConnectTimeoutException: connection timed out: www.cubadebate.cu/122.249.236.43:80
+REQUEST		styles.css&ver=4.10	1616524658857	1616524679118	KO	i.n.c.ConnectTimeoutException: connection timed out: www.cubadebate.cu/122.249.236.43:80
+REQUEST		jquery.js&ver=4.10	1616524658857	1616524679119	KO	i.n.c.ConnectTimeoutException: connection timed out: www.cubadebate.cu/122.249.236.43:80
+REQUEST		podcast_cd.png	1616524669104	1616524679120	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		ordenamiento-monetario.jpg	1616524669107	1616524679122	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-2.jpg	1616524669110	1616524679125	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-9.jpg	1616524669112	1616524679127	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-11.jpg	1616524669114	1616524679129	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		thumbs_fidel-castro-en-primer-plano-5.jpg	1616524669115	1616524679132	KO	i.n.c.ConnectTimeoutException: connection timed out: media.cubadebate.cu/190.92.127.81:80
+REQUEST		R3A9055-180x150.jpg	1616524679126	1616524681185	OK	 
+REQUEST		R3A9043-180x150.jpg	1616524679128	1616524681203	OK	 
+REQUEST		thumbs_fidel-castro-en-primer-plano-14.jpg	1616524679123	1616524681501	OK	 
+REQUEST		thumbs_fidel-castro-en-primer-plano-15.jpg	1616524679121	1616524681543	OK	 
+REQUEST		coronavirus-banner-300px-150x125.png	1616524681187	1616524681863	OK	 
+REQUEST		R3A9339-180x150.jpg	1616524679130	1616524682243	OK	 
+REQUEST		vacuna-abdala-acn-150x125.png	1616524681864	1616524682538	OK	 
+REQUEST		utilizacion-de-tecnologia-rustica-6492-180x150.jpg	1616524682245	1616524682587	OK	 
+REQUEST		full-jose-denis.jpg	1616524681546	1616524682593	OK	 
+REQUEST		trabajadores-de-la-brigada-No.1-de-Promat-6445-180x150.jpg	1616524682541	1616524682873	OK	 
+REQUEST		Miguel-angel-Iglesias-administrador-del-taller-San-Agustin-6479-180x150.jpg	1616524682589	1616524682941	OK	 
+REQUEST		DSC8729-1024x661.jpg	1616524679133	1616524682963	OK	 
+REQUEST		La-hija-del-rey-dragón-copia-150x125.png	1616524682964	1616524683668	OK	 
+REQUEST		MICRORELATOS-2.jpg	1616524681503	1616524683799	OK	 
+REQUEST		telam-casofacundo-madrejpg.jpg_1718483347.jpg	1616524682943	1616524683953	OK	 
+REQUEST		6059a02459bf5b7c381595ed-150x125.jpg	1616524683669	1616524684019	OK	 
+REQUEST		2020_10largeimg_1151354316-180x150.jpg	1616524683799	1616524684133	OK	 
+REQUEST		TumbaTolstoi.jpg	1616524682874	1616524684249	OK	 
+REQUEST		sombras-de-la-guerra-fria-ernesto-limia.jpg	1616524682596	1616524684295	OK	 
+REQUEST		COVID-19-New-PTI-180x150.jpg	1616524683955	1616524684303	OK	 
+REQUEST		2020-09-29T053131Z_1656223505_RC2N7J9OMD9O_RTRMADP_3_HEALTH-CORONAVIRUS-INDIA-CASES-180x150.jpg	1616524684021	1616524684358	OK	 
+REQUEST		atilio-boron.jpg	1616524684250	1616524684763	OK	 
+REQUEST		luis-a-montero-cabrera.jpg	1616524684296	1616524684772	OK	 
+REQUEST		gracziella-pogolotti.jpg	1616524684303	1616524684775	OK	 
+REQUEST		boris-luis-cabrera-acosta.jpg	1616524684359	1616524684777	OK	 
+REQUEST		cesar-gomez-chacon.jpg	1616524684766	1616524685082	OK	 
+REQUEST		ordenamiento-monetario-agricultura-580x321.png	1616524681205	1616524685099	OK	 
+REQUEST		giraldo-mazola.jpg	1616524684774	1616524685136	OK	 
+REQUEST		miguel-diaz-canel.jpg	1616524684778	1616524685138	OK	 
+REQUEST		razonesdecuba.jpg	1616524685084	1616524685415	OK	 
+REQUEST		mesa-redonda.jpg	1616524685100	1616524685429	OK	 
+REQUEST		ines-maria-chapman-waugh.jpg	1616524684776	1616524685452	OK	 
+REQUEST		01-gibara-danier-ernesto-gonzález-wmo.jpg	1616524684135	1616524685900	OK	 
+USER	RecordedSimulation	END	1616524685908

@@ -1,0 +1,10 @@
+{
+  "simulation": "JuventudRebelde",
+  "simulationId": "juventudrebelde",
+  "start": 1616529625466,
+  "description": "Juventud Rebelde",
+  "scenarios": ["JuventudRebelde"],
+  "assertions": [
+
+  ]
+}

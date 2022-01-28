@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1616519028810,
+  "description": "Testing with NetLimiter",
+  "scenarios": ["Scenario Name"],
+  "assertions": [
+
+  ]
+}

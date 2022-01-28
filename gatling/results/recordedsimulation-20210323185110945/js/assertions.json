@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1616525470945,
+  "description": "Correo ICT",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}

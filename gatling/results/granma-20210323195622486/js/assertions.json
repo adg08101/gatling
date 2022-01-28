@@ -1,0 +1,10 @@
+{
+  "simulation": "Granma",
+  "simulationId": "granma",
+  "start": 1616529382486,
+  "description": "Granma",
+  "scenarios": ["Granma"],
+  "assertions": [
+
+  ]
+}

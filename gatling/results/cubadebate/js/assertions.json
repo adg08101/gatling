@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1616526406268,
+  "description": "Cubadebate",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}

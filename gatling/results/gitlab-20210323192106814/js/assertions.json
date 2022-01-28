@@ -1,0 +1,10 @@
+{
+  "simulation": "GitLab",
+  "simulationId": "gitlab",
+  "start": 1616527266814,
+  "description": "GitLab",
+  "scenarios": ["GitLab"],
+  "assertions": [
+
+  ]
+}

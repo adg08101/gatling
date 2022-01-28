@@ -1,0 +1,13 @@
+RUN	computerdatabase.BasicSimulation	basicsimulation	1616518635975	My first simulation	3.5.1
+USER	Scenario Name	START	1616518637576
+REQUEST		request_1	1616518637606	1616518647611	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_2	1616518654619	1616518664622	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_3	1616518666625	1616518676627	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_4	1616518679629	1616518689634	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_5	1616518691635	1616518701638	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_6	1616518702310	1616518712312	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_7	1616518712942	1616518722946	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_8	1616518723682	1616518733684	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_9	1616518738686	1616518748688	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+REQUEST		request_10	1616518749711	1616518760144	KO	i.n.c.ConnectTimeoutException: connection timed out: computer-database.gatling.io/35.241.221.175:80
+USER	Scenario Name	END	1616518760148
